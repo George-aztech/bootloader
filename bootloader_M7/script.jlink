@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "D:\NXP\workspace\bootloader_M7\Debug\bootloader_M7.hex"
+qc
+
+qc
